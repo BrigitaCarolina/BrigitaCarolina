@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brigita Carolina</h1>
 <h3 align="center">An undergraduate informatics student at Bandung Institute of Technology (ITB)</h3>
-<img aling="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 
 - 🔭 I’m currently working on [company profile website](https://github.com/BrigitaCarolina/profile-website)
 
